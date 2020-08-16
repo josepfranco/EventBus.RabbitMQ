@@ -1,2 +1,2 @@
-# Templates.CSharp
-Template repository for C# projects.
+# EventBus.RabbitMQ
+RabbitMQ integration with the event bus abstractions in C#.

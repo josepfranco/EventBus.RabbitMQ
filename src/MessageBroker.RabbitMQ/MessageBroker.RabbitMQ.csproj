@@ -14,14 +14,12 @@
     </PropertyGroup>
 
     <ItemGroup>
-      <Folder Include="Configuration" />
-      <Folder Include="Extensions" />
-    </ItemGroup>
-
-    <ItemGroup>
+      <PackageReference Include="Abstractions.MessageBroker" Version="1.0.2" />
       <PackageReference Include="Microsoft.Extensions.Configuration.Abstractions" Version="3.1.7" />
+      <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="3.1.7" />
       <PackageReference Include="Microsoft.Extensions.DependencyInjection.Abstractions" Version="3.1.7" />
       <PackageReference Include="Microsoft.Extensions.Options.ConfigurationExtensions" Version="3.1.7" />
+      <PackageReference Include="RabbitMQ.Client" Version="6.2.0-rc.1" />
     </ItemGroup>
 
 </Project>

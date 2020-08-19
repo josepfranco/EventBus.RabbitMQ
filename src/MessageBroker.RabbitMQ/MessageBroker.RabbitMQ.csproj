@@ -8,7 +8,7 @@
         <VersionSuffix>alpha</VersionSuffix>
         <PackageVersion>1.0.0</PackageVersion>
         <Authors>José Franco</Authors>
-        <RepositoryUrl>https://github.com/josepfranco/EventBus.RabbitMQ</RepositoryUrl>
+        <RepositoryUrl>https://github.com/josepfranco/MessageBroker.RabbitMQ</RepositoryUrl>
         <RepositoryType>git</RepositoryType>
         <!--                -->
     </PropertyGroup>

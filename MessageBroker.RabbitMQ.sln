@@ -1,8 +1,8 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventBus.RabbitMQ", "src\EventBus.RabbitMQ\EventBus.RabbitMQ.csproj", "{68A12295-40F5-4B31-8D88-02F9F16F5446}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MessageBroker.RabbitMQ", "src\MessageBroker.RabbitMQ\MessageBroker.RabbitMQ.csproj", "{68A12295-40F5-4B31-8D88-02F9F16F5446}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventBus.RabbitMQ.Tests", "src\EventBus.RabbitMQ.Tests\EventBus.RabbitMQ.Tests.csproj", "{EBB116C2-6F0D-4010-843A-B5FFE0D563C5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MessageBroker.RabbitMQ.Tests", "src\MessageBroker.RabbitMQ.Tests\MessageBroker.RabbitMQ.Tests.csproj", "{EBB116C2-6F0D-4010-843A-B5FFE0D563C5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
